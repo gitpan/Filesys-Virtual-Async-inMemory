@@ -180,9 +180,6 @@ DESCRIPTION
                 <Apocalypse> I'll file that away in my TODO and see if I will return to it someday hah
                 <buu> Exccelent.
 
-EXPORT
-    None.
-
 SEE ALSO
     Filesys::Virtual::Async
 
@@ -192,6 +189,10 @@ SUPPORT
         perldoc Filesys::Virtual::Async::inMemory
 
   Websites
+    *   Search CPAN
+
+        <http://search.cpan.org/dist/Filesys-Virtual-Async-inMemory>
+
     *   AnnoCPAN: Annotated CPAN documentation
 
         <http://annocpan.org/dist/Filesys-Virtual-Async-inMemory>
@@ -200,14 +201,37 @@ SUPPORT
 
         <http://cpanratings.perl.org/d/Filesys-Virtual-Async-inMemory>
 
-    *   RT: CPAN's request tracker
+    *   CPAN Forum
+
+        <http://cpanforum.com/dist/Filesys-Virtual-Async-inMemory>
+
+    *   RT: CPAN's Request Tracker
 
         <http://rt.cpan.org/NoAuth/Bugs.html?Dist=Filesys-Virtual-Async-inMe
         mory>
 
-    *   Search CPAN
+    *   CPANTS Kwalitee
 
-        <http://search.cpan.org/dist/Filesys-Virtual-Async-inMemory>
+        <http://cpants.perl.org/dist/overview/Filesys-Virtual-Async-inMemory
+        >
+
+    *   CPAN Testers Results
+
+        <http://cpantesters.org/distro/F/Filesys-Virtual-Async-inMemory.html
+        >
+
+    *   CPAN Testers Matrix
+
+        <http://matrix.cpantesters.org/?dist=Filesys-Virtual-Async-inMemory>
+
+    *   Git Source Code Repository
+
+        This code is currently hosted on github.com under the account
+        "apocalypse". Please feel free to browse it and pull from it, or
+        whatever. If you want to contribute patches, please send me a diff
+        or prod me to pull from your repository :)
+
+        <http://github.com/apocalypse/perl-filesys-virtual-async-inmemory>
 
   Bugs
     Please report any bugs or feature requests to
@@ -223,7 +247,7 @@ AUTHOR
     Props goes to xantus who got me motivated to write this :)
 
 COPYRIGHT AND LICENSE
-    Copyright 2009 by Apocalypse
+    Copyright 2010 by Apocalypse
 
     This library is free software; you can redistribute it and/or modify it
     under the same terms as Perl itself.
